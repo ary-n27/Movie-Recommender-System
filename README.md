@@ -22,11 +22,10 @@ Copy code
 pip install -r requirements.txt
 Add TMDb API Key
 
-Replace the placeholder API key in the code with your valid TMDb API key.
 Run the Application
 
 bash
-Copy code
+
 streamlit run app.py
 File Structure
 app.py - Main Streamlit app file.
@@ -56,12 +55,14 @@ Libraries: streamlit, pickle, requests
 Install these using:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 Future Improvements
 Add user authentication for personalized recommendations.
 Use a larger and updated movie dataset.
 Enhance UI/UX with additional filters and styling.
+
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
