@@ -1,6 +1,3 @@
-
-Here’s a README file tailored for your project:
-
 Movie Recommender System
 This project is a Movie Recommender System built using Streamlit, Pickle, and The Movie Database (TMDb) API. It suggests similar movies based on the user's selection and displays their posters.
 
